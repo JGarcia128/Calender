@@ -3,7 +3,7 @@
 Description 
 Being able to:
 - Add notes and save to calander 
-- Being able to delete and unsave notes 
+- Delete and unsave notes 
 - Color coded on past, present or future events.
 
 Image is showing future hours of the day 
